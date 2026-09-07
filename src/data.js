@@ -30,7 +30,7 @@ export const PROFILE = {
     wespa: "",
     twitter: "",
   },
-  cv: "", // TODO: add a CV
+  cv: "/cv.pdf", // TODO: add a CV
   photo: "", // TODO: add a photo
   aboutPhoto: "", // TODO: add a photo
 };
